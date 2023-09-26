@@ -12,14 +12,14 @@ const Hero = () => {
     <div className=" grid grid-cols-1 lg:grid-cols-2 gap-24 items-center">
       <div>
         <h1 className="max-w-2xl text-4xl font-bold tracking-tight  sm:text-6xl ">
-          We’re changing the way people shop.
+          E-Commerce React App.
         </h1>
 
         <p className="mt-8 max-w-xl text-lg leading-8">
-          Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem
-          cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat
-          aliqua. Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
-          qui lorem cupidatat commodo.
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi soluta
+          asperiores repellendus cumque aliquid temporibus voluptate eos et
+          error modi corrupti illum mollitia saepe, odio ipsa velit recusandae
+          cum in.
         </p>
         <div className="mt-10 ">
           <Link to="products" className="btn btn-primary ">
